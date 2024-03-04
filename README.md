@@ -14,7 +14,7 @@ Run the ```Module4.ipynb``` file. The necessary datasets are already provided an
 ## Data
 The ERA-5 data for this module was accessed through NCAR's RDA via the THREDDS server which is cited below.
 
-Sea Surface Temperature (SST) and Total Column Water Vapor (WV) variables over the Pacific Basin (65°N to 65°S, 120°E to 60°W) were accessed for the time period of 1979 to 2021. For Problem 1 of the assignment, the data was masked out over land using the [ERA-5 land sea mask](https://rda.ucar.edu/thredds/dodsC/files/g/ds633.0/e5.oper.invariant/197901/e5.oper.invariant.128_172_lsm.ll025sc.1979010100_1979010100.nc).
+Sea Surface Temperature (SST) and Total Column Water Vapor (WV) variables over the Pacific Basin (65°N to 65°S, 120°E to 60°W) were accessed for the time period of 1979 to 2021. For Problem 1 of the assignment, the data was masked out over land using the [ERA-5 land sea mask](https://thredds.rda.ucar.edu/thredds/catalog/files/g/ds633.0/e5.oper.invariant/197901/catalog.html?dataset=files/g/ds633.0/e5.oper.invariant/197901/e5.oper.invariant.128_172_lsm.ll025sc.1979010100_1979010100.nc).
 
 ### NCAR RDA ERA-5 Reanalysis Data
 European Centre for Medium-Range Weather Forecasts, 2019: ERA5 Reanalysis (Monthly Mean 0.25 Degree Latitude-Longitude Grid). Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory. Accessed 04 March 2024, https://doi.org/10.5065/P8GT-0R61.
