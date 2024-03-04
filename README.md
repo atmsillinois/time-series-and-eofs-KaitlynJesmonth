@@ -1,6 +1,6 @@
 # ATMS 523 Module-4
 
-Time Series and Empirical Orthogonal Function (EOF) analysis was completed in this project. The main goal in this exercise was to get more experience with time series data and to make different visualizations to complete EOF analysis.
+Time series and Empirical Orthogonal Function (EOF) analyses were completed in this project. The main goal in this exercise was to get more experience with ERA-5 time series data and to make different visualizations to complete EOF analysis.
 
 ## Setting Up
 In order to complete the EOF Analysis in Python, the eofs package (available on Github [here](https://github.com/ajdawson/eofs)) will be used. 
