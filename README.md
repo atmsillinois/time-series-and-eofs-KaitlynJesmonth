@@ -1,6 +1,6 @@
 # ATMS 523 Module-4
 
-Time Series and Empirical Orthogonal Function (EOF) analysis was completed in this project. The main goal in this exercise was to get more experience with using time series data and to make different visualizations to complete EOF analysis. Part 1 of this project focused on getting weather station data and computing some basic statistics from the NOAA Global Historical Climatology Network Daily (GHCN-D) data housed on Amazon Web Services. In Part 2, a bokeh interactive weather dashboard was created.
+Time Series and Empirical Orthogonal Function (EOF) analysis was completed in this project. The main goal in this exercise was to get more experience with time series data and to make different visualizations to complete EOF analysis.
 
 ## Setting Up
 In order to complete the EOF Analysis in Python, the eofs package (available on Github [here](https://github.com/ajdawson/eofs)) will be used. 
