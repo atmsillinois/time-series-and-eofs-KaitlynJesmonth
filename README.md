@@ -9,7 +9,7 @@ The package can be installed using [conda](https://docs.conda.io/projects/conda/
 ```conda install -c conda-forge eofs```
 
 ## Demo the code
-Run the Module4.ipynb file. The necessary datasets are already provided and do not need to be generated again. Feel free to comment those lines out to avoid errors.
+Run the ```Module4.ipynb``` file. The necessary datasets are already provided and do not need to be generated again. Feel free to comment those lines out to avoid errors.
 
 ## Data
 The ERA-5 data for this module was accessed through NCAR's RDA via the THREDDS server which is cited below.
