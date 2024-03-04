@@ -29,6 +29,6 @@ European Centre for Medium-Range Weather Forecasts, 2019: ERA5 Reanalysis (Month
 - Plot [Pearson's correlation coefficient](https://docs.xarray.dev/en/stable/generated/xarray.corr.html)
 
 ## References and Acknowledgements
-The  [Computations and Masks with Xarray](https://foundations.projectpythia.org/core/xarray/computation-masking.html#overview) was used to mask out the data over land.
+Project Pythia's  [Computations and Masks with Xarray](https://foundations.projectpythia.org/core/xarray/computation-masking.html#overview) article was used to mask out the data over land.
 
 For detrending the data, the detrend function from the PyCLIM documentation was used and can be found [here](https://climate.usu.edu/people/yoshi/pyclm101/monthly.html).
